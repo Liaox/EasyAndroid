@@ -1,4 +1,4 @@
-package com.example.easyandroid.widght;
+package com.egojit.easyandroid.widght;
 
 import com.example.easyandroid.R;
 
@@ -13,6 +13,11 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.TextView;
 
+/**
+ * 自定义弹出框
+ * @author Egojit
+ *
+ */
 public class UIDialog extends Dialog {
 	
 	private View mContentView;
