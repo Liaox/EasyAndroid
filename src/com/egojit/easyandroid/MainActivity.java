@@ -1,6 +1,6 @@
 package com.egojit.easyandroid;
 
-import com.example.easyandroid.R;
+
 
 import android.app.Activity;
 import android.os.Bundle;

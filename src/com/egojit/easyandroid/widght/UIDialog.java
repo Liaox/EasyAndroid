@@ -1,6 +1,8 @@
 package com.egojit.easyandroid.widght;
 
-import com.example.easyandroid.R;
+
+
+import com.egojit.easyandroid.R;
 
 import android.app.Dialog;
 import android.content.Context;
